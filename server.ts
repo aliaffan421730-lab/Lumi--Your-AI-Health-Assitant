@@ -114,7 +114,7 @@ Extract and structure the response as JSON matching this schema:
     }
 
     const response = await ai.models.generateContent({
-      model: 'gemini-3.6-flash',
+      model: 'gemini-1.5-flash',
       contents,
       config: {
         responseMimeType: 'application/json',
@@ -186,7 +186,7 @@ Format response as JSON matching this structure:
     }
 
     const response = await ai.models.generateContent({
-      model: 'gemini-3.6-flash',
+      model: 'gemini-1.5-flash',
       contents,
       config: {
         responseMimeType: 'application/json',
@@ -235,7 +235,7 @@ Schema:
 }`;
 
     const response = await ai.models.generateContent({
-      model: 'gemini-3.6-flash',
+      model: 'gemini-1.5-flash',
       contents: prompt,
       config: {
         responseMimeType: 'application/json',
@@ -289,7 +289,7 @@ Output JSON format:
 }`;
 
     const response = await ai.models.generateContent({
-      model: 'gemini-3.6-flash',
+      model: 'gemini-1.5-flash',
       contents: prompt,
       config: {
         responseMimeType: 'application/json',
@@ -349,7 +349,7 @@ RULES:
     }
 
     const response = await ai.models.generateContent({
-      model: 'gemini-3.6-flash',
+      model: 'gemini-1.5-flash',
       contents,
       config: {
         systemInstruction,
@@ -388,7 +388,7 @@ Return JSON:
 }`;
 
     const response = await ai.models.generateContent({
-      model: 'gemini-3.6-flash',
+      model: 'gemini-1.5-flash',
       contents: prompt,
       config: { responseMimeType: 'application/json' },
     });
