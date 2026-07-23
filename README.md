@@ -11,14 +11,14 @@
 # 📌 Live Demo
 
 **Web Application:**
-👉 **<INSERT YOUR VERCEL DEPLOYMENT URL HERE>**
+👉 **<https://lumi-your-ai-health-assitant-ten.vercel.app/>**
 
 ---
 
 # 📂 GitHub Repository
 
 **Repository:**
-👉 **<INSERT YOUR GITHUB REPOSITORY URL HERE>**
+👉 **<https://github.com/aliaffan421730-lab/Lumi--Your-AI-Health-Assitant/>**
 
 ---
 
