@@ -1,0 +1,6 @@
+{
+  "name": "Lumi - Your AI Health Assistant",
+  "description": "An AI-powered healthcare assistant that translates prescriptions, lab reports, drug interactions, and medical jargon into plain language.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
