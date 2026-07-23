@@ -15,10 +15,18 @@
 
 ---
 
+
 # 📂 GitHub Repository
 
 **Repository:**
 👉 **<https://github.com/aliaffan421730-lab/Lumi--Your-AI-Health-Assitant/>**
+
+---
+
+# 📌 Working App Screenshots
+
+**Working App ScreenShots:**
+👉 **<https://drive.google.com/drive/folders/18erkYeOD1T_emIEA_bFHvvEOrVxDeFqS?usp=sharing>**
 
 ---
 
